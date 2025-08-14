@@ -1,2 +1,21 @@
-# SQL-Queries
-A set of simple SQL query examples for the **Library** and **Northwind** databases.   Includes data selection with `SELECT`, table joins (`JOIN`, `UNION`), grouping (`GROUP BY`), and the `EXCEPT` operator.   Intended for learning and quick reference to basic SQL features.
+# SQL Queries – Library & Northwind
+
+This repository contains examples of working with two databases: **Library** and **Northwind**.
+
+## Overview
+The project includes SQL queries that demonstrate basic and slightly advanced operations such as:
+- `SELECT` – data selection from tables;
+- `JOIN` – combining tables;
+- `GROUP BY` with aggregate functions;
+- `UNION` – combining query results;
+- `EXCEPT` – excluding rows from results.
+
+## Purpose
+These materials can be useful for:
+- learning SQL;
+- examples for lab work or practice;
+- quick syntax reference for common SQL operations.
+
+## Databases
+- **Library** – a test database with books, authors, and readers;
+- **Northwind** – a classic sample database with products, suppliers, orders, and customers.
